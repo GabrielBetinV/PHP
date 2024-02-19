@@ -1,0 +1,5 @@
+Cambiar el puerto a 8080 en 
+
+C:\xampp\apache\conf
+
+httpd.conf
